@@ -1,6 +1,9 @@
 #include <stdio.h>
 
+
+
 void main()
 {
-	pritnf("Hello world\n");
+	pritnf("Hello junhyeok\n");
+	printf("Hi~~~~~\n");
 }
