@@ -5,5 +5,6 @@
 void main()
 {
 	pritnf("Hello junhyeok\n");
-	printf("Hi~~~~~\n");
+	printf("my name is jiyeon\n");
+	printf("my name is junhyeok\n");
 }
